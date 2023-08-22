@@ -1,0 +1,4 @@
+
+
+sayHi('Djole')
+sayHi(peter)
